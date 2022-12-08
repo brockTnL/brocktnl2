@@ -1,0 +1,99 @@
+[
+  
+    {
+      "title"    : "Hero page header",
+      "category" : "",
+      "tags"     : "features",
+      "url"      : "/docs/databases/hero/",
+      "date"     : "2022-12-08 14:46:05 -0500"
+    } ,
+  
+    {
+      "title"    : "What are databases?",
+      "category" : "",
+      "tags"     : "setup",
+      "url"      : "/docs/databases/index/",
+      "date"     : "2022-12-08 14:46:05 -0500"
+    } ,
+  
+    {
+      "title"    : "Contacting support",
+      "category" : "",
+      "tags"     : "help, customize",
+      "url"      : "/docs/databases/support/",
+      "date"     : "2022-12-08 14:46:05 -0500"
+    } ,
+  
+    {
+      "title"    : "Translation",
+      "category" : "",
+      "tags"     : "customize",
+      "url"      : "/docs/databases/translation/",
+      "date"     : "2022-12-08 14:46:05 -0500"
+    } ,
+  
+    {
+      "title"    : "What is peer review?",
+      "category" : "",
+      "tags"     : "features",
+      "url"      : "/docs/peerreview/hero/",
+      "date"     : "2022-12-08 14:46:05 -0500"
+    } ,
+  
+    {
+      "title"    : "Peer Review",
+      "category" : "",
+      "tags"     : "setup",
+      "url"      : "/docs/peerreview/index/",
+      "date"     : "2022-12-08 14:46:05 -0500"
+    } ,
+  
+    {
+      "title"    : "Additional Help and Feedback",
+      "category" : "",
+      "tags"     : "help, customize",
+      "url"      : "/docs/peerreview/support/",
+      "date"     : "2022-12-08 14:46:05 -0500"
+    } ,
+  
+    {
+      "title"    : "Knowledge Check",
+      "category" : "",
+      "tags"     : "customize",
+      "url"      : "/docs/peerreview/translation/",
+      "date"     : "2022-12-08 14:46:05 -0500"
+    } ,
+  
+    {
+      "title"    : "Hero page header",
+      "category" : "",
+      "tags"     : "features",
+      "url"      : "/docs/scholarlysources/hero/",
+      "date"     : "2022-12-08 14:46:05 -0500"
+    } ,
+  
+    {
+      "title"    : "What are databases?",
+      "category" : "",
+      "tags"     : "setup",
+      "url"      : "/docs/scholarlysources/index/",
+      "date"     : "2022-12-08 14:46:05 -0500"
+    } ,
+  
+    {
+      "title"    : "Contacting support",
+      "category" : "",
+      "tags"     : "help, customize",
+      "url"      : "/docs/scholarlysources/support/",
+      "date"     : "2022-12-08 14:46:05 -0500"
+    } ,
+  
+    {
+      "title"    : "Translation",
+      "category" : "",
+      "tags"     : "customize",
+      "url"      : "/docs/scholarlysources/translation/",
+      "date"     : "2022-12-08 14:46:05 -0500"
+    } 
+  
+]
